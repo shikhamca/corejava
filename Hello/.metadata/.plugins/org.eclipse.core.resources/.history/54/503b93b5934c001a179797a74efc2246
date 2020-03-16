@@ -1,0 +1,9 @@
+package program;
+
+public class ABC {
+	public static void main(String[] args) {
+		int true = 10;
+		System.out.println(true);
+	}
+
+}

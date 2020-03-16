@@ -1,0 +1,12 @@
+package oops;
+
+public class Inheritance {
+	{
+	    // eat() method
+	    // sleep() method
+	}
+	class Dog extends Inheritance
+	{
+	    // bark() method
+	}
+}
